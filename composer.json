@@ -4,10 +4,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Webqom",
+            "name": "Ravindra Pratap Singh",
             "email": "ravindra85@gmail.com"
         }
     ],
+    "require": {
+      "php": ">=5.5.9"
+    }    
     "autoload": {
         "classmap": [
             "src/database/migrations"
@@ -16,8 +19,4 @@
             "Webqom\\Pages\\": "src/"
         }
     },
-    "minimum-stability": "dev",
-    "require": {
-      "php": ">=5.5.9"
-    }
 }
