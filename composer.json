@@ -1,0 +1,22 @@
+{
+    "name": "webqom/pages",
+    "description": "Laravel page package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Webqom",
+            "email": "support@webqom"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/database/migrations"
+        ],
+        "psr-4": {
+            "Webqom\\Pages\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+    }
+}
