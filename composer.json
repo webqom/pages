@@ -9,12 +9,9 @@
         }
     ],
     "require": {
-      "php": ">=5.5.9"
+      "php": ">=5.6"
     },    
     "autoload": {
-        "classmap": [
-            "src/database/migrations"
-        ],
         "psr-4": {
             "Webqom\\Pages\\": "src/"
         }
