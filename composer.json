@@ -1,11 +1,11 @@
 {
     "name": "webqom/pages",
-    "description": "Laravel page package",
+    "description": "Laravel page package manager",
     "license": "MIT",
     "authors": [
         {
-            "name": "Webqom",
-            "email": "support@webqom.com"
+            "name": "Ravindra Pratap",
+            "email": "ravindra85@gmail.com"
         }
     ],
     "require": {
